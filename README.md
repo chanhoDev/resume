@@ -32,6 +32,7 @@
 - FireBase을 연동할 수 있으며 클라우드 메시지/ 애널리틱스 등을 다룹니다. 
 - Room 을 다룹니다.
 - Clean Architecture를 선호하며 주기적으로 코드 리팩토링을 합니다. 
+- 의존성 주입으로는 Coin, Hilt를 사용했으며 주로 Coin을 사용합니다. 
 
 ## 사용 툴 
 - Google Analytics 를 이용해 서비스 되고 있는 어플의 상태를 확인합니다. 
