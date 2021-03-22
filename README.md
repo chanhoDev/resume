@@ -29,7 +29,7 @@
 ## 프로젝트
 
 ### SYSOFT 
-(진비드 <img src="./images/jinbid.png" height="4" alt="Jinbid logo"> , 비드인<img src="./images/bidin.png" height="4" alt="bidin logo">, 오토비드<img src="./images/autobid.png" height="4" alt="autobid logo"> 등 12개 사업부 )
+(진비드 <img src="./images/jinbid.png" height="40" alt="Jinbid logo"> , 비드인<img src="./images/bidin.png" height="40" alt="bidin logo">, 오토비드<img src="./images/autobid.png" height="40" alt="autobid logo"> 등 12개 사업부 )
 
 
 ### [MAC - Mystical Animal Counseling]
