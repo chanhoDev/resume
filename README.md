@@ -28,19 +28,27 @@
 
 ## 프로젝트
 
-### SYSOFT 
+### <a href="http://www.sysofting.co.kr/views/main.html">SYSOFT</a>  
+- <a href="https://play.google.com/store/apps/details?id=com.sysofting.jinbid">진비드</a><img src="./images/jinbid.png" height="40" alt="Jinbid logo"/> ,<a href="https://play.google.com/store/apps/details?id=com.sysofting.autobid">오토비드</a> <img src="./images/autobid.png" height="40" alt="autobid logo"/> 등 컨설팅 App 3개 자회사 9개 계열사 총 12개 사업부 개발
+- <a href="https://play.google.com/store/apps/details?id=com.sysoft.manager">SY 모바일 관리자 </a> <img src="./images/manager.png" height="40" alt="SY Manager logo"/>  App 개발 
+- <a href="https://play.google.com/store/apps/details?id=com.sysoft.intranet">SY 인트라넷 </a> <img src="./images/intranet.png" height="40" alt="SY Intranet logo"/> App 개발 
 
-<h2><a href="https://play.google.com/store/apps/details?id=com.sysofting.jinbid">진비드</a><img src="./images/jinbid.png" height="40" alt="Jinbid logo"/> ,<a href="https://play.google.com/store/apps/details?id=com.sysofting.autobid">오토비드</a> <img src="./images/autobid.png" height="40" alt="autobid logo"/></h2>
+#### 개발
+- Rest API 개발 
+- Android App 개발
+- Java ,Kotlin 
+- Retrofit2.0,RxAndroid
+- Clean Architecture
+- Koin
+- RxJava
+- Lottie
+- FireBase(FCM, Crashlytics)
+- MVVM 패턴 
+- DataBinding
+- CustomView
+- Glide
+- Hawk
 
-- 진비드, 오토비드 등 컨설팅 App 3개 자회사 9개 계열사 총 12개 사업부 개발
-
-<h2><a href="https://play.google.com/store/apps/details?id=com.sysoft.manager">SY 모바일 관리자 </a> <img src="./images/manager.png" height="40" alt="SY Manager logo"/> </h2>
-
-- SY 모바일 관리자 App 개발 
-
-<h2><a href="https://play.google.com/store/apps/details?id=com.sysoft.intranet">SY 인트라넷 </a> <img src="./images/intranet.png" height="40" alt="SY Intranet logo"/></h2>
-
-- SY 인트라넷 App 개발 
 
 
 
