@@ -2,10 +2,10 @@
 
 <img width="200" alt="image" src="./images/profile.jpeg">  
 
-전자입찰 분석,모빌러티 , IOT 분야에서 android를 개발한 경험이 있습니다 <br>
-발전하는 좋은 개발자가 되기 위해서는 새로운 기술에 두려움을 갖지 않고, <br>
-다양한 직군의 사람과 협업을 해야 한다고 생각합니다. <br>
-또한 가치 있는 코드를 작성하고 좋은 프로젝트에 참여하고 싶습니다.<br> 
+전자입찰 분석,모빌러티 , IOT 분야에서 android를 개발한 경험이 있습니다 
+발전하는 좋은 개발자가 되기 위해서는 새로운 기술에 두려움을 갖지 않고, 
+다양한 직군의 사람과 협업을 해야 한다고 생각합니다. 
+또한 가치 있는 코드를 작성하고 좋은 프로젝트에 참여하고 싶습니다. 
 
 - 박찬호
 
@@ -29,8 +29,15 @@
 ## 프로젝트
 
 ### SYSOFT 
-<h2>(진비드 <img src="./images/jinbid.png" height="40" alt="Jinbid logo"> , 비드인<img src="./images/bidin.png" height="40" alt="bidin logo">, 오토비드<img src="./images/autobid.png" height="40" alt="autobid logo"> 등 12개 사업부 )
-</h2>
+<h2><a href="https://play.google.com/store/apps/details?id=com.sysofting.jinbid">진비드</a> <img src="./images/jinbid.png" height="40" alt="Jinbid logo"> ,<a href="https://play.google.com/store/apps/details?id=com.sysofting.autobid">오토비드</a> <img src="./images/autobid.png" height="40" alt="autobid logo"></h2>
+- 진비드, 오토비드 등 컨설팅 App 3개 자회사 9개 계열사 총 12개 사업부 개발
+
+<h2><a href="https://play.google.com/store/apps/details?id=com.sysoft.manager">SY 모바일 관리자 </a> <img src="./images/manager.png" height="40" alt="SY Manager logo"> 
+- SY 모바일 관리자 App 개발 
+
+<h2><a href="https://play.google.com/store/apps/details?id=com.sysoft.intranet">SY 인트라넷 </a> <img src="./images/intranet.png" height="40" alt="SY Intranet logo"> 
+- SY 인트라넷 App 개발 
+
 
 
 ### [MAC - Mystical Animal Counseling]
