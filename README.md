@@ -69,6 +69,8 @@
 <code>[2021/6/1 ~ 현재][인원 4명][진행중]컨설팅 반응형 WEB 개발</code>
 - angularjs, nodejs 이용한 반응형 웹 개발 
 
+<hr>
+
 <code>[2021/4/22 ~ 2021/6/1][인원1명][완료]컨설팅 12개사 iOS 웹앱 개발 </code>
 - sysoft 회사 조직 개발자 프로그램 아이디 생성및 계정 등록
 - fcm 푸시알림, 인트로, 로그인, 메인웹뷰 개발(로그인 로그아웃 관련 토큰 브릿지 추가) 
@@ -77,6 +79,8 @@
 - jenkins + fastlane 이용한 자동 배포 작업
 - Apple App Store 배포 
 
+<hr>
+
 <code>[2021/2/28 ~ 2021/4/23][인원3명][완료]컨설팅 AOS 리팩토링 </code>
 - 의존성 주입 koin 추가
 - 공통 코드 정리
@@ -84,25 +88,39 @@
 - 구글 권고사항에 따른 개인정보 처리방침, 웹뷰 보안 취약점 관한 추가
 - 배치 알림 조건 사업부별 정리 
 
+<hr>
+
 <code>[2020/12/7 ~ 2020/12/24][인원3명][완료]컨설팅 심사서류/자금조달 현황 AOS 개발</code>
 - 서비스 약관동의, 대표자 휴대폰인증, 대표자 문서로인증, 서류 다운로드 업로드 및 서류 제출 개발 
+
+<hr>
 
 <code>[2020/10/12 ~2020/11/20][인원3명][완료]인트라넷 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysoft.intranet">SY 인트라넷 </a> <img src="./images/intranet.png" height="40" alt="SY Intranet logo"/></code>
 - 인트로, 로그인. 맥등록, 홈, 결제정보, 수신참조 및 검토자 개발, 문서필터, 폼검색 기능 , 조회기간 개발 
 - 배치 결제요청 히스토리 입력 개발 
 
+<hr>
+
 <code>[2020/6/22~2020/10/23][인원1명][완료] 인트라넷 php -> Java Spring Rest API 개발</code>
 - api 개발 (사원정보, 문서목록, 홈, 메인, 보고서내용리스트, 문서양식, 보고서작성, 결제업데이트, 공유직원리스트 등... ) 
+
+<hr>
 
 <code>[2020/3/19 ~ 2020/3/30][인원1명][완료] 비드펀딩 AOS 개발 </code>
 - 반응형으로 웹앱 테스트 및 다운로드 , 인트로, 로그인 개발 
 
+<hr>
+
 <code>[2020/2/26 ~ 2020/4/3][인원2명][완료] 컨설팅 AOS 결제센터 개발 </code>
 - 결제센터, 상품수수료 결제, 결제내역추가, paygate 계좌이체, 신용카드 결제(bridge 추가) 개발
+
+<hr>
 
 <code>[2020/1/9 ~ 2020/2/14][인원2명][완료] 컨설팅 AOS 채팅 개발</code>
 - 채팅 테이블 설계
 - 담당자 채팅 알림, 파일모아보기, 다운로드, 채팅방 리스트 개발 
+
+<hr>
 
 <code>[2019/10/4 ~ 2019/12/24][인원2명][완료]컨설팅 10개 사업부 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysofting.jinbid">진비드</a><img src="./images/jinbid.png" height="40" alt="Jinbid logo"/> ,<a href="https://play.google.com/store/apps/details?id=com.sysofting.autobid">오토비드</a> <img src="./images/autobid.png" height="40" alt="autobid logo"/></code>
 - 진비드, 오토비드등 10개 사업부 홈 개발 
@@ -112,10 +130,14 @@
 - 사업부별 푸시알림 수신 설정 기능 개발 
 - google play console 배포 
 
+<hr>
+
 <code>[2019/7/29 ~ 2019/8/20][인원2명][완료] 컨설팅 AOS 개발 </code>
 - 인트로,로그인, 맥등록, 홈, 분석실, 마이페이지, 분석실상세, 푸시알림설정 개발 
 - firebase 푸시알림 개발 
 - google play console 배포 
+
+<hr>
 
 <code>[2019/7/1 ~2019/7/31][인원2명][완료]관리자 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysoft.manager">SY 모바일 관리자 </a> <img src="./images/manager.png" height="40" alt="SY Manager logo"/> </code>
 - 사업부별 매출현황, 팀실적현황, 1순위, 통합출근부, 인트로, 맥관리자, 로그인 개발 
@@ -123,9 +145,11 @@
 
 <hr>
 
+# 대외 활동 및 개인 프로젝트 
+
 ### IOT를 활용한 법인차량 관제 시스템
 <code>삼성 SDS 멀티캠퍼스, 2019.01.02 ~ 2019.02.28</code>
-- <a href="https://blog.naver.com/chan33344/221479792399">법인차량을 유하고 있는 기업에게 범용적으로 적용 가능한 IOT기반 기업 차량용 관제 시스템 프로젝트</a>
+- <a href="https://blog.naver.com/chan33344/221479792399">법인차량을 소유하고 있는 기업에게 범용적으로 적용 가능한 IOT기반 기업 차량용 관제 시스템 프로젝트</a>
 
 #### 역할
 - Web 서버, DB설계, 웹앱 ui ,android 통신 및 ui 설계
