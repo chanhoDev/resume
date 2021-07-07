@@ -66,20 +66,22 @@
 ### SYSOFT 프로젝트 
 <code>[2021/6/1 ~ 현재][인원 4명][진행중]컨설팅 반응형 WEB 개발</code>
 - angularjs, nodejs 이용한 반응형 웹 개발 
-
+- MVC 디자인 패턴 적용 
 <hr>
 
 <code>[2021/4/22 ~ 2021/6/1][인원1명][완료]컨설팅 12개사 iOS 웹앱 개발 </code>
+- SWIFT 언어
 - sysoft 회사 조직 개발자 프로그램 아이디 생성및 계정 등록
 - fcm 푸시알림, 인트로, 로그인, 메인웹뷰 개발(로그인 로그아웃 관련 토큰 브릿지 추가) 
 - alamofire, rxswift, rxcocoa 라이브러리 조사 및 적용 
-- mvvm 디자인 패턴, without storyboard 방식 적용
+- MVVM 디자인 패턴, without storyboard 방식 적용
 - jenkins + fastlane 이용한 자동 배포 작업
 - Apple App Store 배포 
 
 <hr>
 
 <code>[2021/2/28 ~ 2021/4/23][인원3명][완료]컨설팅 AOS 리팩토링(Java -> Kotlin) </code>
+- JAVA -> KOTLIN 언어 리팩토링 
 - 의존성 주입 koin 추가
 - 공통 코드 정리
 - 그래들 환경설정 개선(네이버아이디, 버전코드등)
@@ -89,13 +91,13 @@
 <hr>
 
 <code>[2020/12/7 ~ 2020/12/24][인원3명][완료]컨설팅 심사서류/자금조달 현황 AOS 개발</code>
-- kotlin 개발 
+- KOTLIN 언어
 - 서비스 약관동의, 대표자 휴대폰인증, 대표자 문서로인증, 서류 다운로드 업로드 및 서류 제출 개발 
 
 <hr>
 
 <code>[2020/10/12 ~2020/11/20][인원3명][완료]인트라넷 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysoft.intranet">SY 인트라넷 </a> <img src="./images/intranet.png" height="40" alt="SY Intranet logo"/></code>
-- kotlin 개발 
+- KOTLIN 언어
 - MVVM, Repository 디자인 패턴 적용
 - Koin 의존성 주입 적용  
 - 인트로, 로그인. 맥등록, 홈, 결제정보, 수신참조 및 검토자 개발, 문서필터, 폼검색 기능 , 조회기간 개발 
@@ -104,28 +106,36 @@
 <hr>
 
 <code>[2020/6/22~2020/10/23][인원1명][완료] 인트라넷 (php -> Java) Spring Rest API 개발</code>
+- JAVA 언어
+- MVC 디자인 패턴 적용
 - api 개발 (사원정보, 문서목록, 홈, 메인, 보고서내용리스트, 문서양식, 보고서작성, 결제업데이트, 공유직원리스트 등... ) 
 
 <hr>
 
 <code>[2020/3/19 ~ 2020/3/30][인원1명][완료] 비드펀딩 AOS 개발 </code>
-- kotlin 개발
+- KOTLIN 언어
 - 반응형으로 웹앱 테스트 및 다운로드 , 인트로, 로그인 개발 
+- window, popup , url 주소에 따른 분기처리 및 개발 
+- firbase 푸시알림 개발 
 
 <hr>
 
 <code>[2020/2/26 ~ 2020/4/3][인원2명][완료] 컨설팅 AOS 결제센터 개발 </code>
-- 결제센터, 상품수수료 결제, 결제내역추가, paygate 계좌이체, 신용카드 결제(bridge 추가) 개발
+- JAVA , JavaScript ,AngularJS 언어
+- 결제센터, 상품수수료 결제, 결제내역추가, paygate 계좌이체 연동 개발 
+- 신용카드 결제 관련 Bridge  개발
 
 <hr>
 
 <code>[2020/1/9 ~ 2020/2/14][인원2명][완료] 컨설팅 AOS 채팅 개발</code>
+- JAVA 언어
 - 채팅 테이블 설계
 - 담당자 채팅 알림, 파일모아보기, 다운로드, 채팅방 리스트 개발 
 
 <hr>
 
 <code>[2019/10/4 ~ 2019/12/24][인원2명][완료]컨설팅 10개 사업부 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysofting.jinbid">진비드</a><img src="./images/jinbid.png" height="40" alt="Jinbid logo"/> ,<a href="https://play.google.com/store/apps/details?id=com.sysofting.autobid">오토비드</a> <img src="./images/autobid.png" height="40" alt="autobid logo"/></code>
+- JAVA 언어
 - 진비드, 오토비드등 10개 사업부 홈 개발 
 - 사업부별 firebase fcm 푸시알림 추가 및 개발 
 - 젠킨스 로컬 배포환경 작업 
@@ -136,7 +146,8 @@
 <hr>
 
 <code>[2019/7/29 ~ 2019/8/20][인원2명][완료] 컨설팅 AOS 개발 </code>
-- JAVA 
+- JAVA 언어
+- MVVM 디자인 패턴 
 - 인트로,로그인, 맥등록, 홈, 분석실, 마이페이지, 분석실상세, 푸시알림설정 개발 
 - firebase 푸시알림 개발 
 - google play console 배포 
@@ -144,6 +155,8 @@
 <hr>
 
 <code>[2019/7/1 ~2019/7/31][인원2명][완료]관리자 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysoft.manager">SY 모바일 관리자 </a> <img src="./images/manager.png" height="40" alt="SY Manager logo"/> </code>
+- JAVA 언어 
+- MVP 디자인 패턴 
 - 사업부별 매출현황, 팀실적현황, 1순위, 통합출근부, 인트로, 맥관리자, 로그인 개발 
 - google play console 배포 
 
