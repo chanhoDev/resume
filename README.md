@@ -89,11 +89,15 @@
 <hr>
 
 <code>[2020/12/7 ~ 2020/12/24][인원3명][완료]컨설팅 심사서류/자금조달 현황 AOS 개발</code>
+- kotlin 개발 
 - 서비스 약관동의, 대표자 휴대폰인증, 대표자 문서로인증, 서류 다운로드 업로드 및 서류 제출 개발 
 
 <hr>
 
 <code>[2020/10/12 ~2020/11/20][인원3명][완료]인트라넷 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysoft.intranet">SY 인트라넷 </a> <img src="./images/intranet.png" height="40" alt="SY Intranet logo"/></code>
+- kotlin 개발 
+- MVVM, Repository 디자인 패턴 적용
+- Koin 의존성 주입 적용  
 - 인트로, 로그인. 맥등록, 홈, 결제정보, 수신참조 및 검토자 개발, 문서필터, 폼검색 기능 , 조회기간 개발 
 - 배치 결제요청 히스토리 입력 개발 
 
@@ -105,6 +109,7 @@
 <hr>
 
 <code>[2020/3/19 ~ 2020/3/30][인원1명][완료] 비드펀딩 AOS 개발 </code>
+- kotlin 개발
 - 반응형으로 웹앱 테스트 및 다운로드 , 인트로, 로그인 개발 
 
 <hr>
@@ -123,7 +128,7 @@
 <code>[2019/10/4 ~ 2019/12/24][인원2명][완료]컨설팅 10개 사업부 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysofting.jinbid">진비드</a><img src="./images/jinbid.png" height="40" alt="Jinbid logo"/> ,<a href="https://play.google.com/store/apps/details?id=com.sysofting.autobid">오토비드</a> <img src="./images/autobid.png" height="40" alt="autobid logo"/></code>
 - 진비드, 오토비드등 10개 사업부 홈 개발 
 - 사업부별 firebase fcm 푸시알림 추가 및 개발 
-- 젠킨스 로컬 배표환경 작업 
+- 젠킨스 로컬 배포환경 작업 
 - 앱배포 관련 난독화 적용 
 - 사업부별 푸시알림 수신 설정 기능 개발 
 - google play console 배포 
@@ -131,6 +136,7 @@
 <hr>
 
 <code>[2019/7/29 ~ 2019/8/20][인원2명][완료] 컨설팅 AOS 개발 </code>
+- JAVA 
 - 인트로,로그인, 맥등록, 홈, 분석실, 마이페이지, 분석실상세, 푸시알림설정 개발 
 - firebase 푸시알림 개발 
 - google play console 배포 
