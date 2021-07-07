@@ -7,6 +7,7 @@
 다양한 직군의 사람과 협업을 해야 한다고 생각합니다. <br>
 또한 가치 있는 코드를 작성하고 좋은 프로젝트에 참여하고 싶습니다.<br> 
 
+
 - 박찬호
 
 - Email: chan33344@gmail.com
@@ -56,14 +57,11 @@
 - Jenkins (AOS, iOS) 배포 
 
 # 경력
-### SYSOFT
+### <a href="http://www.sysofting.co.kr/views/main.html">SYSOFT</a>  
 - Android Developer
 - 솔루션 개발팀
 - 직책: 주임
-- 기간 :2019.06.03 ~현재 
-
-### <a href="http://www.sysofting.co.kr/views/main.html">SYSOFT</a>  
-<code>sysoft, 2019.06.03 ~ 현재</code>
+- 기간 :<code>sysoft, 2019.06.03 ~ 현재</code>
 
 ### SYSOFT 프로젝트 
 <code>[2021/6/1 ~ 현재][인원 4명][진행중]컨설팅 반응형 WEB 개발</code>
