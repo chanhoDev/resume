@@ -1,6 +1,6 @@
 # 소개
 
-<img width="200" alt="image" src="./images/profile.jpeg">  
+<img width="200" alt="image" src="./images/profile2.jpeg">  
 
 전자입찰 분석,모빌러티 , IOT 분야에서 android를 개발한 경험이 있습니다 <br>
 발전하는 좋은 개발자가 되기 위해서는 새로운 기술에 두려움을 갖지 않고, <br>
