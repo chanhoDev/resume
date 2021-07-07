@@ -23,6 +23,7 @@
 - Google Analytics 를 이용해 서비스 되고 있는 어플의 상태를 확인합니다. 
 - 프로젝트에 대한 버전관리는 git 을 이용합니다.
 - 디자이너와 협업을 위해 Slack으로 대화를 하며 Zeplin을 이용해 디자인을 받습니다.
+- jetBrain 을 이용해 web,android 를 개발하는데 사용합니다. 
 
 <code>AOS(android) 관련 개발 기술</code>
 - Java ,Kotlin
@@ -58,8 +59,7 @@
 
 # 경력
 ### <a href="http://www.sysofting.co.kr/views/main.html">SYSOFT</a>  
-- Android Developer
-- 솔루션 개발팀
+- 부서: 솔루션 개발 App 팀
 - 직책: 주임
 - 기간 :<code>sysoft, 2019.06.03 ~ 현재</code>
 
