@@ -49,6 +49,7 @@
 
 <code>공통 기술</code>
 - Restful API  
+- javascript
 - mysql
 - angularjs 
 - nodejs
