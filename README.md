@@ -1,6 +1,6 @@
 # 소개
 
-<img width="200" alt="image" src="./images/profile2.jpeg">  
+<img width="500" alt="image" src="./images/profile3.jpeg">  
 
 전자입찰 분석,모빌러티 , IOT 분야에서 android를 개발한 경험이 있습니다 <br>
 발전하는 좋은 개발자가 되기 위해서는 새로운 기술에 두려움을 갖지 않고, <br>
@@ -79,7 +79,7 @@
 
 <hr>
 
-<code>[2021/2/28 ~ 2021/4/23][인원3명][완료]컨설팅 AOS 리팩토링 </code>
+<code>[2021/2/28 ~ 2021/4/23][인원3명][완료]컨설팅 AOS 리팩토링(Java -> Kotlin) </code>
 - 의존성 주입 koin 추가
 - 공통 코드 정리
 - 그래들 환경설정 개선(네이버아이디, 버전코드등)
@@ -99,7 +99,7 @@
 
 <hr>
 
-<code>[2020/6/22~2020/10/23][인원1명][완료] 인트라넷 php -> Java Spring Rest API 개발</code>
+<code>[2020/6/22~2020/10/23][인원1명][완료] 인트라넷 (php -> Java) Spring Rest API 개발</code>
 - api 개발 (사원정보, 문서목록, 홈, 메인, 보고서내용리스트, 문서양식, 보고서작성, 결제업데이트, 공유직원리스트 등... ) 
 
 <hr>
