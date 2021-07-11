@@ -63,13 +63,11 @@
 - 기간 :<code>sysoft, 2019.06.03 ~ 현재</code>
 
 ### SYSOFT 프로젝트 
-<code>[2021/6/1 ~ 현재][인원 4명][진행중]컨설팅 반응형 WEB 개발</code>
-- angularjs, nodejs 이용한 반응형 웹 개발 
-- MVC 디자인 패턴 적용 
-<hr>
 
-<code>[2021/4/22 ~ 2021/6/1][인원1명][완료]컨설팅 12개사 iOS 웹앱 개발 </code>
+<code>[2021/4/22 ~ ][인원1명][진행중]컨설팅 iOS 웹앱 개발 </code>
 - SWIFT 언어
+- angularjs, nodejs 이용한 반응형 웹 개발 
+- web MVC 디자인 패턴 적용 
 - sysoft 회사 조직 개발자 프로그램 아이디 생성및 계정 등록
 - fcm 푸시알림, 인트로, 로그인, 메인웹뷰 개발(로그인 로그아웃 관련 토큰 브릿지 추가) 
 - alamofire, rxswift, rxcocoa 라이브러리 조사 및 적용 
