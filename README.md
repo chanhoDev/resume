@@ -77,7 +77,7 @@
 
 <hr>
 
-<code>[2021/2/28 ~ 2021/4/23][인원3명][완료]컨설팅 AOS 리팩토링(Java -> Kotlin) </code>
+<code>[2021/2/28 ~ 2021/4/23][인원2명][완료]컨설팅 AOS 리팩토링(Java -> Kotlin) </code>
 - JAVA -> KOTLIN 언어 리팩토링 
 - 의존성 주입 koin 추가
 - 공통 코드 정리
@@ -93,7 +93,7 @@
 
 <hr>
 
-<code>[2020/10/12 ~2020/11/20][인원3명][완료]인트라넷 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysoft.intranet">SY 인트라넷 </a> <img src="./images/intranet.png" height="40" alt="SY Intranet logo"/></code>
+<code>[2020/10/12 ~2020/11/20][인원2명][완료]인트라넷 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysoft.intranet">SY 인트라넷 </a> <img src="./images/intranet.png" height="40" alt="SY Intranet logo"/></code>
 - KOTLIN 언어
 - MVVM, Repository 디자인 패턴 적용
 - Koin 의존성 주입 적용  
