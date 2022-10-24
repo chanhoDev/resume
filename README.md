@@ -63,14 +63,21 @@
 - 기간 :<code>sysoft, 2021.09 ~ 2022.10</code>
 
 ### MEDIPASS 프로젝트 
-<code>[2022/8/1 - 2022/10/14] Native Android, ios -≫ flutter 언어로 개편 작업</code>
-<code>[2022/4/20 - 2022/6/20]Android 코인워크 친구초대 , 로슈 설문조사 기능 추가</code>
-<code>[2022/2/1 - 2022/3/28]Android 코인워크 미션, 메디블록 코인 출금 기능 추가</code>
-<code>[2021/12/28 - 2022/1/20]Android 메디패스 공통 모듈화 작업, 로컬 데이터베이스 암호화 작업</code>
-<code>[2021/11/10 - 2021/12/17] Android 패스청구, 패스청구+, 사진청구, 은행계좌입력 ui/ux 개편 및 기능 추가</code>
-<code>[2021/10/16 - 2021/11/4 ]Android 내 정보 페이지 ui/ux 개편 및 기능 추가</code>
-<code>[2021/9/2 ~ 2021/10/13] Android 복약 알림 기능 추가</code>
 
+<code>[2022/8/1 - 2022/10/14] Native Android, ios -≫ flutter 언어로 개편 작업</code>
+<hr>
+<code>[2022/4/20 - 2022/6/20]Android 코인워크 친구초대 , 로슈 설문조사 기능 추가</code>
+<hr>
+<code>[2022/2/1 - 2022/3/28]Android 코인워크 미션, 메디블록 코인 출금 기능 추가</code>
+<hr>
+<code>[2021/12/28 - 2022/1/20]Android 메디패스 공통 모듈화 작업, 로컬 데이터베이스 암호화 작업</code>
+<hr>
+<code>[2021/11/10 - 2021/12/17] Android 패스청구, 패스청구+, 사진청구, 은행계좌입력 ui/ux 개편 및 기능 추가</code>
+<hr>
+<code>[2021/10/16 - 2021/11/4 ]Android 내 정보 페이지 ui/ux 개편 및 기능 추가</code>
+<hr>
+<code>[2021/9/2 ~ 2021/10/13] Android 복약 알림 기능 추가</code>
+<hr>
 
 ### <a href="http://www.sysofting.co.kr/views/main.html">SYSOFT</a>  
 - 부서: 솔루션 개발 App 팀
