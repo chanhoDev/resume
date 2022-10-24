@@ -57,7 +57,7 @@
 - Jenkins (AOS, iOS) 배포 
 
 # 경력
-### <a href="http://www.sysofting.co.kr/views/main.html">SYSOFT</a>  
+### <a href="https://medibloc.co.kr/">Medibloc</a>  
 - 부서: 메디패스 개발 Android 팀
 - 직책: 책임
 - 기간 :<code>sysoft, 2021.09 ~ 2022.10</code>
