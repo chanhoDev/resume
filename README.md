@@ -1,6 +1,6 @@
 # 소개
 
-<img width="500" alt="image" src="./images/profile3.jpeg">  
+<img width="500" alt="image" src="./images/KakaoTalk_Photo_2022-10-24-13-46-26.jpeg">  
 전자입찰 분석,모빌러티 , IOT 분야에서 android를 구축,테스트 및 유지보수를 담당/운영한경험이 있습니다. <br>
 발전하는 좋은 개발자가 되기 위해서는 새로운 기술에 두려움을 갖지 않고 ,다양한 동료와 활발한 커뮤니케이션과 협업을 해야 <br>
 한다고 생각합니다. 가치 있는 코드를 작성하고 좋은 프로젝트에 참여하고 싶습니다.<br>
