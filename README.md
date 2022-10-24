@@ -62,6 +62,11 @@
 - 직책: 책임
 - 기간 :<code>sysoft, 2021.09 ~ 2022.10</code>
 
+### <a href="http://www.sysofting.co.kr/views/main.html">SYSOFT</a>  
+- 부서: 솔루션 개발 App 팀
+- 직책: 주임
+- 기간 :<code>sysoft, 2019.06 ~ 2021.08</code>
+
 ### MEDIPASS(10만) 프로젝트 <a href="https://play.google.com/store/apps/details?id=me.medipass&hl=ko&gl=US">메디패스</a> <img src="./images/medipass.png" height="40" alt="medipass logo"/> 
 
 <code>[2022/8/1 - 2022/10/14] Native Android, ios -≫ flutter 언어로 개편 작업</code>
@@ -78,11 +83,6 @@
 <hr>
 <code>[2021/9/2 ~ 2021/10/13] Android 복약 알림 기능 추가</code>
 <hr>
-
-### <a href="http://www.sysofting.co.kr/views/main.html">SYSOFT</a>  
-- 부서: 솔루션 개발 App 팀
-- 직책: 주임
-- 기간 :<code>sysoft, 2019.06 ~ 2021.08</code>
 
 ### SYSOFT 프로젝트 
 
