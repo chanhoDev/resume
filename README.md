@@ -1,6 +1,6 @@
 # 소개
 
-<img width="500" alt="image" src="./images/KakaoTalk_Photo_2022-10-24-13-46-26.jpeg">  
+<img width="200" alt="image" src="./images/KakaoTalk_Photo_2022-10-24-13-46-26.jpeg">  
 전자입찰 분석,모빌러티 , IOT 분야에서 android를 구축,테스트 및 유지보수를 담당/운영한경험이 있습니다. <br>
 발전하는 좋은 개발자가 되기 위해서는 새로운 기술에 두려움을 갖지 않고 ,다양한 동료와 활발한 커뮤니케이션과 협업을 해야 <br>
 한다고 생각합니다. 가치 있는 코드를 작성하고 좋은 프로젝트에 참여하고 싶습니다.<br>
@@ -58,9 +58,24 @@
 
 # 경력
 ### <a href="http://www.sysofting.co.kr/views/main.html">SYSOFT</a>  
+- 부서: 메디패스 개발 Android 팀
+- 직책: 책임
+- 기간 :<code>sysoft, 2021.09 ~ 2022.10</code>
+
+### MEDIPASS 프로젝트 
+<code>[2022/8/1 - 2022/10/14] Native Android, ios -≫ flutter 언어로 개편 작업</code>
+<code>[2022/4/20 - 2022/6/20]Android 코인워크 친구초대 , 로슈 설문조사 기능 추가</code>
+<code>[2022/2/1 - 2022/3/28]Android 코인워크 미션, 메디블록 코인 출금 기능 추가</code>
+<code>[2021/12/28 - 2022/1/20]Android 메디패스 공통 모듈화 작업, 로컬 데이터베이스 암호화 작업</code>
+<code>[2021/11/10 - 2021/12/17] Android 패스청구, 패스청구+, 사진청구, 은행계좌입력 ui/ux 개편 및 기능 추가</code>
+<code>[2021/10/16 - 2021/11/4 ]Android 내 정보 페이지 ui/ux 개편 및 기능 추가</code>
+<code>[2021/9/2 ~ 2021/10/13] Android 복약 알림 기능 추가</code>
+
+
+### <a href="http://www.sysofting.co.kr/views/main.html">SYSOFT</a>  
 - 부서: 솔루션 개발 App 팀
 - 직책: 주임
-- 기간 :<code>sysoft, 2019.06.03 ~ 현재</code>
+- 기간 :<code>sysoft, 2019.06 ~ 2021.08</code>
 
 ### SYSOFT 프로젝트 
 
