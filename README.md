@@ -68,7 +68,7 @@
 - 직책: 주임
 - 기간 :<code>sysoft, 2019.06 ~ 2021.08</code>
 
-### MEDIPASS(10만) 프로젝트 <a href="https://play.google.com/store/apps/details?id=me.medipass&hl=ko&gl=US">메디패스</a> <img src="./images/medipass.png" height="40" alt="medipass logo"/> <br>
+### MEDIPASS 프로젝트 <a href="https://play.google.com/store/apps/details?id=me.medipass&hl=ko&gl=US">메디패스</a> <img src="./images/medipass.png" height="40" alt="medipass logo"/> <br>
 <img width="500" alt="image" src="./스크린샷 2023-01-31 오후 6.45.00.png"> 
 <img width="500" alt="image" src="./스크린샷 2023-01-31 오후 6.45.10.png"> <br>
 <code>[2022/8/1 - 2022/10/14] Native Android, ios -≫ flutter 언어로 개편 작업</code><br>
