@@ -30,7 +30,8 @@
 - RxJava
 - Lottie
 - FireBase(FCM, Crashlytics)
-- MVVM , MVP, Respository 패턴 
+- Clean Architecture, MVVM , MVP, Respository 패턴 
+- jetpack compose
 - DataBinding
 - CustomView
 - Glide
