@@ -3,27 +3,6 @@
 <img width="200" alt="image" src="./images/KakaoTalk_Photo_2022-10-24-13-46-26.jpeg">  
 자기소개서
 
-지원한 동기
-
--앱 개발에 지원한 이유는 일단 제가 가장 관심 있어 하는 부분은 앱 개발이기 때문입니다. 많은 사람들이 가장 많이 가지고 활용하는 것이 스마트폰이고 앱을 통해 많은 서비스가 이용 중에 있습니다. 그렇기 때문에 계속해서 앱에서 많은 사람들이 사용할 것이라 생각합니다. 앱 분야에 관심을 갖게 된 건 학부시절인데 우연히 난초 심부름을 받은 적이 있습니다 난초 란 까다로운 식물이라 출장 갈 때마다 주변 사람에게 맡기는 것을 보면서 불편함을 느꼈습니다. 그래서 시작하게 된 것이 플랜트 시터라는 프로젝트였습니다. 모바일 앱 식물을 관리해 주는 아두이노 제품을 블루투스 통신을 하도록 했습니다. 앱에서 식생 정보를 입력하면 자동으로 빛과 물의 양을 조절해서 주도록 개발하였습니다. 이후 식물에 대한 심부름은 없었고 수상까지 받으면서 모바일 앱의 다양한 확장성과 활용성을 알게 되어 관심을 갖게 되었습니다.
-
-지원한 직무를 수행하는 역량으로 가장 중요하다고 생각하는 3가지와 그 이유
-
--가장 중요한 역량이라 생각하는 것은 꼼꼼함, 성장 지향성, 성실성 이 3가지가 직무를 수행하는 데 중요한 역량이라 생각합니다.
-첫 번째 꼼꼼함 부분은 매번 개발을 배포하는 시점에 다가오면서 느끼는 부분으로 꼼꼼하게 보지 못해서 예기치 못한 정말 사소한 부분에서 문제가 생겨서 몇 시간을 소비한 적이 있었습니다. 그래서 개발할 때는 최대한 꼼꼼히 보고 하려고 합니다.
-두 번째 성장 지향성입니다 개발을 하면서 항상 무엇을 개선할지에 대한 고민을 하고 개발 성능의 성장도 생각하면서 하는 것이 개발하는 데 있어서 중요한 역량이라 생각합니다.
-세 번째 성실성입니다. 개발이라는 것이 재능이 있다고 해서 하는 것이 아니라 끈기 있게 개발을 해 나아가는 것이라 생각합니다. 사실 세 가지 역량 중에 제일 중요한 것이 성실성이라 생각하는데 그 이유는 나머지 역량들은 성실함이 뒷받침되지 않으면 일회성에 그치기 때문입니다.
-
-최근 2-3년간 가장 힘들었던 순간은 무엇이고, 이를 극복하기 위한 노력(생각, 행동 등)과 결과 그리고 느낀 점
-
--메디 블록에 메디 패스란 앱을 유지 보수하면서 가장 힘들었던 경험을 한 적이 있었습니다. 그때가 코인 워크라는 기능을 출시하고 난 직후였는데 코인 워크라는 기능은 하루에 만보 걸으면 보상을 주고 다음날 00:00 지나면 리셋되는 기능이었습니다. 배포전에 충분히 테스트해보고 했는데 다양한 기기, 배터리 상태, 메모리 상태 등 여러 가지에 따라서 테스트 케이스를 생각하지 못해서 관련 이슈들이 갑자기 쏟아져 왔습니다. 가지고 있는 기기로는 테스트하기가 어렵고 정확한 원인 파악이 어려워 어디서부터 어떻게 할지 멘붕이었습니다. 그때 생각한 것이 개발 계획을 세우는 것처럼 쪼개고 쪼개서 작은 단위로 만들어서 생각하자였습니다. 그래서 파이어 베이스의 크래시리 틱스를 세세하게 심어 놓았고 이전과는 달리 오류의 원인을 파악할 수 있어서 좀 더 수월하게 이슈를 차근차근히 해결해 나아갈 수 있었습니다. 그때 이후로 큰일이 생기면 큰 덩어리를 한 번에 해결하려고 생각하기보단 쪼개서 접근하려고 합니다.
-
-직무와 관련 없이 본인의 특기를 소개하고, 특기의 발전을 위해 노력한 활동
-
--저의 특기는 f45 펑셔널 고강도 팀 트레이닝입니다. 원래는 몸 관리를 위해 헬스장을 다녔었는데 헬스장은 혼자서 하다 보니 얼마 못 가서 흥미를 잃어버려서 팀 단위로 하는 곳이 없을까 해서 찾게 된 것이 f45 펑셔널 고강도 팀트레이닝이었습니다. 펑셔널 고강도 팀트레이닝이란 45분 동안 고강도 운동을 하는데 팀을 이뤄서 하는 것을 말합니다. 매달 한 번씩 체력 테스트를 하는데 이때에도 팀원과 기록을 공유하는데 이게 생각하지 못한 원동력이 되어서 하루에 한 번 가던 프로그램을 두 번 가기도 하고 힘들어서 포기하고 싶은 운동 동작에서도 하나라도 더 해보려는 노력을 했었습니다. 그래서 지금은 5달밖에 되지 않았지만 초급에서 중급으로 올라왔고 내년에는 고급까지 도전할 생각으로 열심히 할 예정입니다.
-
-입사 후 포부
-
 -저는 학부시절부터 지금까지 전자입찰,의료,모빌러티 등 앱 을 유지 보수 및 담당 운영한 경험이 있습니다. 전자 입찰 회사에서는 13개에 해당하는 전자입찰 앱을 유지 보수를 하왔으며 메디 블록에서는 메디 패스 앱에 코인 워크 관련 기능 추가로 10만 달성한 경험이 있습니다. 입사하게 된다면 앱에서의 다양한 경험과 제가 중요하게 생각하는 3가지 역량 꼼꼼함, 성장 지향성, 성실성을 토대로 업무에 임하도록 하겠습니다.
 <br>
 
@@ -88,118 +67,106 @@
 - 직책: 주임
 - 기간 :<code>sysoft, 2019.06 ~ 2021.08</code>
 
-### MEDIPASS(10만) 프로젝트 <a href="https://play.google.com/store/apps/details?id=me.medipass&hl=ko&gl=US">메디패스</a> <img src="./images/medipass.png" height="40" alt="medipass logo"/> 
-
-<code>[2022/8/1 - 2022/10/14] Native Android, ios -≫ flutter 언어로 개편 작업</code>
-<hr>
-<code>[2022/4/20 - 2022/6/20]Android 코인워크 친구초대 , 로슈 설문조사 기능 추가</code>
-<hr>
-<code>[2022/2/1 - 2022/3/28]Android 코인워크 미션, 메디블록 코인 출금 기능 추가</code>
-<hr>
-<code>[2021/12/28 - 2022/1/20]Android 메디패스 공통 모듈화 작업, 로컬 데이터베이스 암호화 작업</code>
-<hr>
-<code>[2021/11/10 - 2021/12/17] Android 패스청구, 패스청구+, 사진청구, 은행계좌입력 ui/ux 개편 및 기능 추가</code>
-<hr>
-<code>[2021/10/16 - 2021/11/4 ]Android 내 정보 페이지 ui/ux 개편 및 기능 추가</code>
-<hr>
-<code>[2021/9/2 ~ 2021/10/13] Android 복약 알림 기능 추가</code>
+### MEDIPASS(10만) 프로젝트 <a href="https://play.google.com/store/apps/details?id=me.medipass&hl=ko&gl=US">메디패스</a> <img src="./images/medipass.png" height="40" alt="medipass logo"/> <br>
+<img width="500" alt="image" src="./스크린샷 2023-01-31 오후 6.45.00.png"> 
+<img width="500" alt="image" src="./스크린샷 2023-01-31 오후 6.45.10.png"> <br>
+<code>[2022/8/1 - 2022/10/14] Native Android, ios -≫ flutter 언어로 개편 작업</code><br>
+<code>[2022/4/20 - 2022/6/20]Android 코인워크 친구초대 , 로슈 설문조사 기능 추가</code><br>
+<code>[2022/2/1 - 2022/3/28]Android 코인워크 미션, 메디블록 코인 출금 기능 추가</code><br>
+<code>[2021/12/28 - 2022/1/20]Android 메디패스 공통 모듈화 작업, 로컬 데이터베이스 암호화 작업</code><br>
+<code>[2021/11/10 - 2021/12/17] Android 패스청구, 패스청구+, 사진청구, 은행계좌입력 ui/ux 개편 및 기능 추가</code><br>
+<code>[2021/10/16 - 2021/11/4 ]Android 내 정보 페이지 ui/ux 개편 및 기능 추가</code><br>
+<code>[2021/9/2 ~ 2021/10/13] Android 복약 알림 기능 추가</code><br>
 <hr>
 
 ### SYSOFT 프로젝트 
 
-<code>[2021/4/22 ~ ][인원1명][진행중]컨설팅 iOS 웹앱 개발 </code>
+<img width="500" alt="image" src="./스크린샷 2023-01-31 오후 6.46.34.png"> <br>
+<img width="500" alt="image" src="./스크린샷 2023-01-31 오후 6.48.28.png"> <br>
+<img width="500" alt="image" src="./스크린샷 2023-01-31 오후 6.48.46.png"> <br>
+<code>[2021/4/22 ~ ]컨설팅 iOS 웹앱 개발 </code><br>
 - SWIFT 언어
-- angularjs, nodejs 이용한 반응형 웹 개발 
-- web MVC 디자인 패턴 적용 
+- angularjs, nodejs 이용한 반응형 웹 개발
+- web MVC 디자인 패턴 적용
 - sysoft 회사 조직 개발자 프로그램 아이디 생성및 계정 등록
-- fcm 푸시알림, 인트로, 로그인, 메인웹뷰 개발(로그인 로그아웃 관련 토큰 브릿지 추가) 
-- alamofire, rxswift, rxcocoa 라이브러리 조사 및 적용 
+- fcm 푸시알림, 인트로, 로그인, 메인웹뷰 개발(로그인 로그아웃 관련 토큰 브릿지 추가)
+- alamofire, rxswift, rxcocoa 라이브러리 조사 및 적용
 - MVVM 디자인 패턴, without storyboard 방식 적용
 - jenkins + fastlane 이용한 자동 배포 작업
-- Apple App Store 배포 
+- Apple App Store 배포<br>
+<br>
 
-<hr>
-
-<code>[2021/2/28 ~ 2021/4/23][인원2명][완료]컨설팅 AOS 리팩토링(Java -> Kotlin) </code>
-- JAVA -> KOTLIN 언어 리팩토링 
+<code>[2021/2/28 ~ 2021/4/23]컨설팅 AOS 리팩토링(Java -> Kotlin) </code><br>
+- JAVA -> KOTLIN 언어 리팩토링
 - 의존성 주입 koin 추가
 - 공통 코드 정리
 - 그래들 환경설정 개선(네이버아이디, 버전코드등)
 - 구글 권고사항에 따른 개인정보 처리방침, 웹뷰 보안 취약점 관한 추가
-- 배치 알림 조건 사업부별 정리 
+- 배치 알림 조건 사업부별 정리<br>
+<br>
 
-<hr>
-
-<code>[2020/12/7 ~ 2020/12/24][인원2명][완료]컨설팅 심사서류/자금조달 현황 AOS 개발</code>
+<code>[2020/12/7 ~ 2020/12/24]컨설팅 심사서류/자금조달 현황 AOS 개발</code><br>
 - KOTLIN 언어
-- 서비스 약관동의, 대표자 휴대폰인증, 대표자 문서로인증, 서류 다운로드 업로드 및 서류 제출 개발 
+- 서비스 약관동의, 대표자 휴대폰인증, 대표자 문서로인증, 서류 다운로드 업로드 및 서류 제출 개발<br>
+<br>
 
-<hr>
-
-<code>[2020/10/12 ~2020/11/20][인원2명][완료]인트라넷 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysoft.intranet">SY 인트라넷 </a> <img src="./images/intranet.png" height="40" alt="SY Intranet logo"/></code>
+<code>[2020/10/12 ~2020/11/20]인트라넷 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysoft.intranet">SY 인트라넷 </a> <img src="./images/intranet.png" height="40" alt="SY Intranet logo"/></code><br>
 - KOTLIN 언어
 - MVVM, Repository 디자인 패턴 적용
-- Koin 의존성 주입 적용  
-- 인트로, 로그인. 맥등록, 홈, 결제정보, 수신참조 및 검토자 개발, 문서필터, 폼검색 기능 , 조회기간 개발 
-- 배치 결제요청 히스토리 입력 개발 
+- Koin 의존성 주입 적용
+- 인트로, 로그인. 맥등록, 홈, 결제정보, 수신참조 및 검토자 개발, 문서필터, 폼검색 기능 , 조회기간 개발
+- 배치 결제요청 히스토리 입력 개발<br>
+<br>
 
-<hr>
-
-<code>[2020/6/22~2020/10/23][인원1명][완료] 인트라넷 (php -> Java) Spring Rest API 개발</code>
+<code>[2020/6/22~2020/10/23]인트라넷 (php -> Java) Spring Rest API 개발</code><br>
 - JAVA 언어
 - MVC 디자인 패턴 적용
-- api 개발 (사원정보, 문서목록, 홈, 메인, 보고서내용리스트, 문서양식, 보고서작성, 결제업데이트, 공유직원리스트 등... ) 
+- api 개발 (사원정보, 문서목록, 홈, 메인, 보고서내용리스트, 문서양식, 보고서작성, 결제업데이트, 공유직원리스트 등... )<br>
+<br>
 
-<hr>
-
-<code>[2020/3/19 ~ 2020/3/30][인원1명][완료] 비드펀딩 AOS 개발 </code>
+<code>[2020/3/19 ~ 2020/3/30]비드펀딩 AOS 개발 </code><br>
 - KOTLIN 언어
-- 반응형으로 웹앱 테스트 및 다운로드 , 인트로, 로그인 개발 
-- window, popup , url 주소에 따른 분기처리 및 개발 
-- firbase 푸시알림 개발 
+- 반응형으로 웹앱 테스트 및 다운로드 , 인트로, 로그인 개발
+- window, popup , url 주소에 따른 분기처리 및 개발
+- firbase 푸시알림 개발<br>
+<br>
 
-<hr>
-
-<code>[2020/2/26 ~ 2020/4/3][인원2명][완료] 컨설팅 AOS 결제센터 개발 </code>
+<code>[2020/2/26 ~ 2020/4/3] 컨설팅 AOS 결제센터 개발 </code><br>
 - JAVA , JavaScript ,AngularJS 언어
-- 결제센터, 상품수수료 결제, 결제내역추가, paygate 계좌이체 연동 개발 
-- 신용카드 결제 관련 Bridge  개발
+- 결제센터, 상품수수료 결제, 결제내역추가, paygate 계좌이체 연동 개발
+- 신용카드 결제 관련 Bridge 개발<br>
+<br>
 
-<hr>
-
-<code>[2020/1/9 ~ 2020/2/14][인원2명][완료] 컨설팅 AOS 채팅 개발</code>
+<code>[2020/1/9 ~ 2020/2/14]컨설팅 AOS 채팅 개발</code><br>
 - JAVA 언어
 - 채팅 테이블 설계
-- 담당자 채팅 알림, 파일모아보기, 다운로드, 채팅방 리스트 개발 
+- 담당자 채팅 알림, 파일모아보기, 다운로드, 채팅방 리스트 개발<br>
+<br>
 
-<hr>
-
-<code>[2019/10/4 ~ 2019/12/24][인원2명][완료]컨설팅 10개 사업부 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysofting.jinbid">진비드</a><img src="./images/jinbid.png" height="40" alt="Jinbid logo"/> ,<a href="https://play.google.com/store/apps/details?id=com.sysofting.autobid">오토비드</a> <img src="./images/autobid.png" height="40" alt="autobid logo"/></code>
+<code>[2019/10/4 ~ 2019/12/24]컨설팅 10개 사업부 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysofting.jinbid">진비드</a><img src="./images/jinbid.png" height="40" alt="Jinbid logo"/> ,<a href="https://play.google.com/store/apps/details?id=com.sysofting.autobid">오토비드</a> <img src="./images/autobid.png" height="40" alt="autobid logo"/></code><br>
 - JAVA 언어
-- 진비드, 오토비드등 10개 사업부 홈 개발 
-- 사업부별 firebase fcm 푸시알림 추가 및 개발 
-- 젠킨스 로컬 배포환경 작업 
-- 앱배포 관련 난독화 적용 
-- 사업부별 푸시알림 수신 설정 기능 개발 
-- google play console 배포 
+- 진비드, 오토비드등 10개 사업부 홈 개발
+- 사업부별 firebase fcm 푸시알림 추가 및 개발
+- 젠킨스 로컬 배포환경 작업
+- 앱배포 관련 난독화 적용
+- 사업부별 푸시알림 수신 설정 기능 개발
+- google play console 배포<br>
+<br>
 
-<hr>
-
-<code>[2019/7/29 ~ 2019/8/20][인원2명][완료] 컨설팅 AOS 개발 </code>
+<code>[2019/7/29 ~ 2019/8/20] 컨설팅 AOS 개발 </code><br>
 - JAVA 언어
-- MVVM 디자인 패턴 
-- 인트로,로그인, 맥등록, 홈, 분석실, 마이페이지, 분석실상세, 푸시알림설정 개발 
-- firebase 푸시알림 개발 
-- google play console 배포 
+- MVVM 디자인 패턴
+- 인트로,로그인, 맥등록, 홈, 분석실, 마이페이지, 분석실상세, 푸시알림설정 개발
+- firebase 푸시알림 개발
+- google play console 배포<br>
+<br>
 
-<hr>
-
-<code>[2019/7/1 ~2019/7/31][인원2명][완료]관리자 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysoft.manager">SY 모바일 관리자 </a> <img src="./images/manager.png" height="40" alt="SY Manager logo"/> </code>
-- JAVA 언어 
-- MVP 디자인 패턴 
-- 사업부별 매출현황, 팀실적현황, 1순위, 통합출근부, 인트로, 맥관리자, 로그인 개발 
-- google play console 배포 
-
+<code>[2019/7/1 ~2019/7/31]관리자 AOS 개발 <a href="https://play.google.com/store/apps/details?id=com.sysoft.manager">SY 모바일 관리자 </a> <img src="./images/manager.png" height="40" alt="SY Manager logo"/> </code><br>
+- JAVA 언어
+- MVP 디자인 패턴
+- 사업부별 매출현황, 팀실적현황, 1순위, 통합출근부, 인트로, 맥관리자, 로그인 개발
+- google play console 배포<br>
+<br>
 <hr>
 
 # 대외 활동 및 개인 프로젝트 
@@ -207,7 +174,8 @@
 ### IOT를 활용한 법인차량 관제 시스템
 <code>삼성 SDS 멀티캠퍼스, 2019.01.02 ~ 2019.02.28</code>
 - <a href="https://blog.naver.com/chan33344/221479792399">법인차량을 소유하고 있는 기업에게 범용적으로 적용 가능한 IOT기반 기업 차량용 관제 시스템 프로젝트</a>
-
+<img width="500" alt="image" src="./스크린샷 2023-01-31 오후 6.49.23.png"> <br>
+<img width="500" alt="image" src="./스크린샷 2023-01-31 오후 6.49.35.png"> <br>
 #### 역할
 - Web 서버, DB설계, 웹앱 ui ,android 통신 및 ui 설계
 
@@ -239,8 +207,9 @@
 
 ### 자동으로 식물을 관리하는 플랜트 시터
 <code>한국발명진흥회, 2016.05.02 ~ 2016.05.28 </code>
-- <a href="https://blog.naver.com/chan33344/221259397563">플랜트 시터 프로젝트</a>
-
+- <a href="https://blog.naver.com/chan33344/221259397563">플랜트 시터 프로젝트</a><br>
+<img width="300" alt="image" src="./스크린샷 2023-01-31 오후 6.50.35.png"> <br>
+<img width="300" alt="image" src="./스크린샷 2023-01-31 오후 7.22.10.png"> <br>
 #### 역할
 - 원격으로 Orange Board 와 Bluetooth 통신하도록 Android App 개발 담당 
 
